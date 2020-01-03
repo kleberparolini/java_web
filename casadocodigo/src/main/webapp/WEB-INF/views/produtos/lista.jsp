@@ -9,6 +9,10 @@
 </head>
 <body>
 
+	<div>
+		<h1>${sucessMessage}</h1>
+	</div>
+
 	<table>
 		<tr>
 			<td>Titulo</td>
